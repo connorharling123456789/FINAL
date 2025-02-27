@@ -1,0 +1,9 @@
+1 Make: Audi Model: S5 Year: 2010 Acceleration: 6.0 TopSpeed: 250
+2 Make: Tesla Model: Model S Year: 2023 Acceleration: 3.2 TopSpeed: 320
+3 Make: BMW Model: M3 Year: 2021 Acceleration: 4.1 TopSpeed: 280
+4 Make: Ford Model: Mustang GT Year: 2022 Acceleration: 4.5 TopSpeed: 260
+5 Make: Porsche Model: 911 Carrera Year: 2020 Acceleration: 3.4 TopSpeed: 312
+6 Make: Chevrolet Model: Corvette Stingray Year: 2021 Acceleration: 3.0 TopSpeed: 306
+7 Make: Mercedes-Benz Model: AMG GT Year: 2022 Acceleration: 3.2 TopSpeed: 318
+8 Make: Jaguar Model: F-Type Year: 2023 Acceleration: 3.5 TopSpeed: 300
+9 Make: Nissan Model: GT-R Year: 2020 Acceleration: 2.9 TopSpeed: 315
