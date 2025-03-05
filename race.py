@@ -66,12 +66,12 @@ def chooseCarTwo():
             carDict['Model']=cars[i+1]
 
         if cars[i]=='Year:':
-            yea=cars[i+1]
+            carDict['Year']=cars[i+1]
         if cars[i]=='Acceleration:':
-            acce=cars[i+1]
+            carDict['Acceleration']=cars[i+1]
         if cars[i]=='TopSpeed:':
-            ts=cars[i+1]
-    newCar=Car(carDict.get('Make'),carDict.get('Model'),year,acceleration,topSpeed)
+            carDict['topSpeed']=cars[i+1]
+    newCar=Car(carDict.get('Make'),carDict.get('Model'),carDict.get('Year'),carDict.get('Acceleration'),carDict.get('topSpeed'))
     #print(type(newCar))
     newCar.display_info()
     return newCar

@@ -83,3 +83,4 @@ my_car = Car("Tesla", "Model S", 2023, 10, 250)
 
 # Display the car's information
 my_car.display_info()
+#wecn
