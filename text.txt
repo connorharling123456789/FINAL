@@ -1,9 +1,40 @@
 1 Make: Audi Model: S5 Year: 2010 Acceleration: 6.0 TopSpeed: 250
 2 Make: Tesla Model: Model S Year: 2023 Acceleration: 3.2 TopSpeed: 320
 3 Make: BMW Model: M3 Year: 2021 Acceleration: 4.1 TopSpeed: 280
-4 Make: Ford Model: Mustang GT Year: 2022 Acceleration: 4.5 TopSpeed: 260
-5 Make: Porsche Model: 911 Carrera Year: 2020 Acceleration: 3.4 TopSpeed: 312
-6 Make: Chevrolet Model: Corvette Stingray Year: 2021 Acceleration: 3.0 TopSpeed: 306
-7 Make: Mercedes-Benz Model: AMG GT Year: 2022 Acceleration: 3.2 TopSpeed: 318
+4 Make: Ford Model: Mustang-GT Year: 2022 Acceleration: 4.5 TopSpeed: 260
+5 Make: Porsche Model: 911-Carrera Year: 2020 Acceleration: 3.4 TopSpeed: 312
+6 Make: Chevrolet Model: Corvette-Stingray Year: 2021 Acceleration: 3.0 TopSpeed: 306
+7 Make: Mercedes-Benz Model: AMG-GT Year: 2022 Acceleration: 3.2 TopSpeed: 318
 8 Make: Jaguar Model: F-Type Year: 2023 Acceleration: 3.5 TopSpeed: 300
 9 Make: Nissan Model: GT-R Year: 2020 Acceleration: 2.9 TopSpeed: 315
+10 Make: Lamborghini Model: Huracán-Year: 2021 Acceleration: 2.5 TopSpeed: 325
+11 Make: Ferrari Model: 488-GTB Year: 2019 Acceleration: 3.0 TopSpeed: 330
+12 Make: McLaren Model: 720S Year: 2022 Acceleration: 2.7 TopSpeed: 341
+13 Make: Aston Martin Model: DB11 Year: 2020 Acceleration: 3.9 TopSpeed: 310
+14 Make: Dodge Model: Challenger-SRT-Hellcat Year: 2021 Acceleration: 3.6 TopSpeed: 320
+15 Make: Audi Model: R8-V10 Year: 2022 Acceleration: 3.0 TopSpeed: 330
+16 Make: BMW Model: Z4-M40i Year: 2021 Acceleration: 4.3 TopSpeed: 250
+17 Make: Subaru Model: WRX-STI Year: 2021 Acceleration: 5.0 TopSpeed: 250
+18 Make: Toyota Model: Supra Year: 2021 Acceleration: 4.1 TopSpeed: 250
+19 Make: Volkswagen Model: Golf-R Year: 2022 Acceleration: 4.5 TopSpeed: 267
+20 Make: Hyundai Model: Veloster-N Year: 2021 Acceleration: 5.4 TopSpeed: 250
+21 Make: Ferrari Model: F8-Tributo Year: 2021 Acceleration: 2.9 TopSpeed: 340
+22 Make: BMW Model: i8 Year: 2019 Acceleration: 4.4 TopSpeed: 250
+23 Make: Bugatti Model: Chiron Year: 2021 Acceleration: 2.5 TopSpeed: 420
+24 Make: Audi Model: RS7 Year: 2021 Acceleration: 3.5 TopSpeed: 305
+25 Make: Tesla Model: Roadster Year: 2022 Acceleration: 1.9 TopSpeed: 400
+26 Make: Dodge Model: Viper-ACR Year: 2020 Acceleration: 3.3 TopSpeed: 330
+27 Make: Porsche Model: 718-Cayman Year: 2021 Acceleration: 4.4 TopSpeed: 275
+28 Make: Mercedes-Benz Model: E63-S-AMG Year: 2021 Acceleration: 3.3 TopSpeed: 300
+29 Make: Nissan Model: 370Z-Nismo Year: 2021 Acceleration: 4.8 TopSpeed: 250
+30 Make: Lexus Model: LC500 Year: 2021 Acceleration: 4.4 TopSpeed: 270
+31 Make: Cadillac Model: CT5-V-Blackwing Year: 2021 Acceleration: 3.4 TopSpeed: 322
+32 Make: Infiniti Model: Q60-Red-Sport Year: 2021 Acceleration: 4.5 TopSpeed: 250
+33 Make: Audi Model: RS5 Year: 2021 Acceleration: 3.9 TopSpeed: 280
+34 Make: Mercedes-Benz Model: SLS-AMG Year: 2020 Acceleration: 3.7 TopSpeed: 317
+35 Make: Toyota Model: GR86 Year: 2022 Acceleration: 6.0 TopSpeed: 225
+36 Make: Mazda Model: MX-5-Miata Year: 2021 Acceleration: 5.5 TopSpeed: 225
+37 Make: Kia Model: Stinger-GT Year: 2021 Acceleration: 4.7 TopSpeed: 270
+38 Make: Porsche Model: Taycan Year: 2021 Acceleration: 2.4 TopSpeed: 260
+39 Make: Jaguar Model: XE-SV-Project-8 Year: 2021 Acceleration: 3.3 TopSpeed: 300
+40 Make: Ford Model: GT Year: 2021 Acceleration: 3.0 TopSpeed: 340

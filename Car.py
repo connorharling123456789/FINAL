@@ -1,5 +1,5 @@
 class Car:
-    def __init__(self, make, model, year, acceleration, topSpeed):
+    def __init__(self, make:str, model:str, year:int, acceleration:float, topSpeed:int):
         # Initialize the car's attributes
         self.make = make
         self.model = model
@@ -74,7 +74,7 @@ class Car:
     def display_info(self):
         """Display information about the car."""
         e='Car Info: {} {} {}'.format(self.year,self.make,self.model)
-        t='Top Speed: {} km/h, Current Speed: {} km/h, Acceleration: {} km/h^2'.format(self.topSpeed,self.speed,self.acceleration)
+        t='Top Speed: {} km/h, Current Speed: {} km/h, Acceleration: {} m/s^2'.format(self.topSpeed,self.speed,self.acceleration)
         print(e)
         print(t)
 
