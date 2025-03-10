@@ -2,6 +2,8 @@ from Car import Car
 import random
 
 import matplotlib.pyplot as plt
+#This function runs the simulation again so that we can project the
+# final race visually with graphs for speed and position
 def sim(car1,car2,distance,dcar1,dcar2):
     car1.speed=0
     car2.speed=0
@@ -71,6 +73,7 @@ def sim(car1,car2,distance,dcar1,dcar2):
         p=timecar2+1
     # Create a plot to visualize the race
 
+
     d=input('Speed graph or Position graph? Type p for position and s for speed')
     if d=='p':
         plt.figure(figsize=(10, 6))
@@ -113,7 +116,10 @@ def sim(car1,car2,distance,dcar1,dcar2):
         plt.legend()
         plt.grid(True)
         plt.show()
-#
+    # if timecar2>timecar1:
+    #     return car1
+    # else:
+    #     return car2
 #
 # def chooseCarOne():
 #     mak=''
@@ -192,9 +198,9 @@ def sim(car1,car2,distance,dcar1,dcar2):
 #     return newCar
 
 
-from Car import Car
-from driver import raceTimeOnekm
-raceOneTimeKm()
+#from Car import Car
+
+#raceTimeOneKm()
 # def chooseCarOne():
 #     mak=''
 #     mode=''

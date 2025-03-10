@@ -1,4 +1,5 @@
 class Car:
+    #This class makes the car
     def __init__(self, make:str, model:str, year:int, acceleration:float, topSpeed:int):
         # Initialize the car's attributes
         self.make = make

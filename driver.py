@@ -1,4 +1,5 @@
 # from Car import Car
+# 7 vs 3 4.6 km
 
 #from race import chooseCarOne
 #from race import chooseCarTwo
@@ -7,6 +8,8 @@ import random
 from race import sim
 
 import matplotlib.pyplot as plt
+#This function runs the race. It doesn't take any parameters and returns true when it reaches
+# the end of the code after it shows the graphs for speed and position
 def raceTimeOneKm():
     blind= input ('Shall your race be random?')
     #//////////////////////////////////////////////////////////////MAKES CAR 1
@@ -121,12 +124,19 @@ def raceTimeOneKm():
         dcar2 += car2.speed
 
 
-
+    w=0
     if timecar1>timecar2:
         print('Player 2 with the ',car2.make,car2.model,'won with a time of: ',timecar2,'seconds, which was faster than',car1.make,car1.model,'by',timecar1-timecar2,'seconds over a distance of',distance,'meters')
+
     else:
+
         print('Player 1 with the ',car1.make,car1.model,'won with a time of: ',timecar1,'seconds, which was faster than',car2.make,car2.model,'by',timecar2-timecar1,'seconds over a distance of',distance,'meters')
+
     sim(car1, car2, distance, 0, 0)
+    if timecar1 > timecar2:
+        return True
+    else:
+        return True
 
 
     # Create a plot to visualize the race
