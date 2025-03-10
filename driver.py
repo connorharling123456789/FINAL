@@ -104,7 +104,8 @@ def raceTimeOneKm():
     num_steps=50
 
     for i in range(10000):
-
+        if (not t1) and (not t2):
+            break
         if dcar1>distance and t1:
             timecar1=i
             t1=False
